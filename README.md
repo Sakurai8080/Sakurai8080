@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Sakurai8080&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" /><img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakurai8080&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakurai8080&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Sakurai8080&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sakurai8080&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakurai8080&theme=2077)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sakurai8080&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 <!--
 **Sakurai8080/Sakurai8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
